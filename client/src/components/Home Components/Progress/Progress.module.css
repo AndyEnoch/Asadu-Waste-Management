@@ -1,0 +1,8 @@
+.progressBar{
+    position: relative;
+    display: flex;
+    margin-top: 40px;
+    margin-left: 220px;
+    width: 200px;
+    padding: 20px 30px 20px 30px;
+}
